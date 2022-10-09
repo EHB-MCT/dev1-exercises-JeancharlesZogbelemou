@@ -22,6 +22,9 @@ context.strokeStyle = "blue"
 context.beginPath ();
 context.moveTo (350, 350);
 context.lineTo (350, 500); 
+context.lineTo (350, 300);
+context.lineTo (350, 300);
+context.lineTo (450, 300);
 context.stroke();
 
 
